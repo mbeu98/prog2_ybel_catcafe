@@ -5,6 +5,7 @@ import static org.junit.jupiter.api.Assertions.*;
 import java.util.Iterator;
 import java.util.Spliterator;
 import java.util.stream.Stream;
+
 import org.junit.jupiter.api.Test;
 
 /** Testing the {@link Empty} class. */
